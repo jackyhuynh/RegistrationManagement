@@ -2,8 +2,8 @@
 //  File_reader.h
 //  Final_project
 //
-//  Created by YIEN LIN on 6/19/14.
-//  Copyright (c) 2014 YIEN LIN. All rights reserved.
+//  Created by YIEN LIN, TRUC HUYNH on 6/19/14.
+//  Copyright (c) 2014 YIEN LIN, TRUC HUYNH. All rights reserved.
 //
 
 #ifndef __Final_project__File_reader__
