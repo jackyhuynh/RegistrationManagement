@@ -1,5 +1,5 @@
 # RegistrationSystem
-Registration System is a group project using C++. Registration System work as its name, a registration system for students. The application contains three data structures (binary search tree, heap, and a hashtable). Data will be read and store in the three data structures. A control manager will manage the insert, update, and delete each Object on all the data structures. There also helpers objects (File-Reader, Student, and Data) was implemented to ensure program security and abstract design.
+Registration System is a group project using C++. Registration System work as its name, a registration system for students. The application contains three data structures (binary search tree, heap, and a hashtable). Data will be read and store in the three data structures. A control manager will manage the insert, update, and delete each Object on all the data structures. There also helpers objects (File-Reader, Student, and Data) was implemented to ensure program security and abstract design. The idea with three data sucture is for back up and Optimized Search Engine. Each data sucture is perform diffrent on each Search.
 
 ## Technology:
 C++, Pointer, Object-Oriented Design, Encapsulation, Data Structures, Algorithm, Memory Management
@@ -29,33 +29,19 @@ Linux Ubuntu 18.4 LTS
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Explain how to run the automated tests for this system:
+* [Linux Compilers](https://askubuntu.com/questions/61408/what-is-a-command-to-compile-and-run-c-programs#:~:text=The%20simplest%20way%20to%20compile%20a%20C%2B%2B%20program,only%20compiler%20capable%20of%20compiling%20the%20Linux%20kernel.)- Locate the home folder that contain the program (by using the cd command). Call the g++ compiler and execute.
+* [Visual Studio Command Line](https://docs.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-160
+)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Can be deploy to any embedded system without any problem. Can also make API or libary using this. 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/) - The full-featured integrated development environment (IDE) for Android, iOS, Windows, web, and cloud 
+* [.NET](https://dotnet.microsoft.com/download/dotnet-framework) -  Free. Cross-platform. Open source. A developer platform for building Internet of Thing(IOT), Microservices, Desktop, Cloud, Mobile, Machine Learning, Web, Game.
 
 ## Contributing
 
@@ -67,8 +53,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Truc Huynh** - *Initial work* - [TrucDev](https://github.com/jackyhuynh)
+* **Yien Lin** - *Initial work* - [YienLin](https://www.linkedin.com/in/yienlin/)
+* **Dmitry Sokolov** - *Initial work* - [DmitrySokolov](https://www.linkedin.com/in/dmitry-sokolov-726596a4/)
 
+## Format
+my README.md format was retrieved from
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
