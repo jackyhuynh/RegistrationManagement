@@ -33,11 +33,11 @@
 // ********************************************************
 
 #include <iostream>
-#include "Data.h"
-#include "Hash_Table.h"
-#include "Heap.h"
-#include "File_reader.h"
-#include "BST.h"
+#include "Header/Data.h"
+#include "Header/Hash_Table.h"
+#include "Header/Heap.h"
+#include "Header/File_reader.h"
+#include "Header/BST.h"
 #include "time.h"
 #include "math.h"
 #include <string>

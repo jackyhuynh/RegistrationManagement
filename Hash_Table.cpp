@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 YIEN LIN, TRUC HUYNH. All rights reserved.
 //
 
-#include "Hash_Table.h"
+#include "Header/Hash_Table.h"
 
 /**
  * CONSTRUCTOR
