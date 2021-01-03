@@ -2,7 +2,7 @@
 Registration System is a group project using C++. Registration System work as its name, a registration system for students. The application contains three data structures (binary search tree, heap, and a hashtable). Data will be read and store in the three data structures. A control manager will manage the insert, update, and delete each Object on all the data structures. There also helpers objects (File-Reader, Student, and Data) was implemented to ensure program security and abstract design. The idea with three data sucture is for back up and Optimized Search Engine. Each data sucture is perform diffrent on each Search.
 
 ## Technology:
-C++, Pointer, Object-Oriented Design, Encapsulation, Data Structures, Algorithm, Memory Management
+C++, Pointer, Object-Oriented Design, Encapsulation, Pollymorphism, Data Structures, Algorithm, Memory Management
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
